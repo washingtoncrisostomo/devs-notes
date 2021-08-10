@@ -6,3 +6,4 @@ $array['result'] = [
 ];
 
 require('../return.php');
+?>
