@@ -10,5 +10,3 @@ $array = [
     'error' => '',
     'result' => []
 ];
-
-?>
